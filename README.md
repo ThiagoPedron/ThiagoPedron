@@ -14,6 +14,22 @@
 </p>
 
 
+
+
+
+## 🌱 Profile Views
+<!---
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+--->
+<br /><br /><br /><br />
+ <p align="left"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/thiagopedron/count.svg" />
+ </p>
+<br /><br /> 
+
+  [![Linkedin: Wallace](https://img.shields.io/badge/-Wallace-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/wallacebescrovaine/)
+  [![GitHub Wallace]( https://img.shields.io/github/followers/deathsooul?label=follow&style=social)](https://github.com/Deathsooul)
+
 <!--
 **ThiagoPedron/ThiagoPedron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
