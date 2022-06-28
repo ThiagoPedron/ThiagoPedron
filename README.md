@@ -28,7 +28,7 @@
 <br /><br /> 
 
   [![Linkedin: Thiago](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/thiagoPedron/)
-  [![GitHub Thiago]( https://img.shields.io/github/followers/thiagopedron?label=follow&style=social)](https://github.com/tiagoPedron)
+  [![GitHub Thiago]( https://img.shields.io/github/followers/thiagopedron?label=follow&style=social)](https://github.com/thiagoPedron)
 
 <!--
 **ThiagoPedron/ThiagoPedron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
