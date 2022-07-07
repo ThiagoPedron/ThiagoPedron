@@ -36,7 +36,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoPedron&layout=compact&langs_count=7&theme=apprentice"/>
 
 
-### This readme.md was heavily based on my friend [AllanKley](https://github.com/AllanKley")
+### This readme.md was heavily based on my friend [AllanKley](https://github.com/AllanKley)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
