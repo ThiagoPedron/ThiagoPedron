@@ -2,7 +2,7 @@
 
 <h1 align='center'><img align='center' width='40' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/Peace.png"/> Hey there!</h1>
 
-<h3 align='center'>I'm Allan, nice to meet you.</h3>
+<h3 align='center'>I'm Thiago Pedron, nice to meet you.</h3>
 
 <p align='center'>You can follow me on <a href="https://br.linkedin.com/in/thiago-pedron-4598a118b">Linkedin</a> 
 
