@@ -1,46 +1,43 @@
-# 💻 Skill
-<br />
 
-![thiagopedron's stats](https://github-readme-stats-deploy-nu.vercel.app/api/top-langs/?username=thiagopedron&hide_border=true&theme=tokyonight&layout=compact&langcount=16&hide=Jupyter%20Notebook,JavaScript,CSS,Go,SCSS)
-![thiagopedron's stats](https://github-readme-stats-deploy-nu.vercel.app/api?username=thiagopedron&theme=tokyonight&hide_border=true%count_private=true&&include_all_commits=true)
 
-<!---
-## Languages
-<p>
-  <img  height="38" alingn="left" src="./public/images/python.png" alt="Python"/>
-  <img  height="38" alingn="left" src="./public/images/csharp.png" alt="C#" /> 
-  <img  height="38" alingn="left" src="./public/images/html.png" alt="HTML" />
-  <img  height="38" alingn="left" src="./public/images/css.png" alt="CSS" />
+<h1 align='center'><img align='center' width='40' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/Peace.png"/> Hey there!</h1>
+
+<h3 align='center'>I'm Allan, nice to meet you.</h3>
+
+<p align='center'>You can follow me on <a href="https://br.linkedin.com/in/thiago-pedron-4598a118b">Linkedin</a> 
+
+<details align='center' ><summary><img align='center' width='35' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/Bird.png"/> Click here for more informations about me <img align='center' width='35' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/FlipBird.png"/></summary>
+
+<div align='left'>
+  <h2><img align='center' width='35' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/Profile.png"/> General info:</h2>
+
+  - <img align='center' width='30' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/Game.png"/> Currently learning how to make a <a href="https://github.com/stelmachic/WatersanFirejalma">game</a>
+  - <img align='center' width='30' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/BoschLogo.png"/>   software development trainee at Bosch 
+  - <img align='center' width='30' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/Birthday.png"/>   20 years old
+  - <img align='center' width='30' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/Study.png"/>   I'm a engineering student
+  - <img align='center' width='30' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/Mail.png"/>   How to reach me: thiagopedron70@gmail.com
+</div>
+
+
+## Some languages and tools i use
+  
+  <p align="center">
+    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
+    <img height="60" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">
+    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+    <img height="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+    <img height="60" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
+    <img height="60" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+    <img height="60" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg">
+    <img height="60" src="https://github.com/rodrigo2019/rodrigo2019/blob/main/public/images/arduino.png">
+  </p>
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoPedron&layout=compact&langs_count=7&theme=apprentice"/>
+<a href="https://github.com/AllanKley/AllanKley">Strol</a> 
+
+### This readme.md was heavily based on my friend [AllanKley](https://github.com/AllanKley")
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
---->
-
-
-
-
-## 🌱 Profile Views
-<!---
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
---->
-<br /><br /><br /><br />
- <p align="left"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/thiagopedron/count.svg" />
- </p>
-<br /><br /> 
-
-  [![Linkedin: Thiago](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/thiagoPedron/)
-  [![GitHub Thiago]( https://img.shields.io/github/followers/thiagopedron?label=follow&style=social)](https://github.com/thiagoPedron)
-
-<!--
-**ThiagoPedron/ThiagoPedron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
