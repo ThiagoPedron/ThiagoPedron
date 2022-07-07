@@ -6,7 +6,7 @@
 
 <p align='center'>You can follow me on <a href="https://br.linkedin.com/in/thiago-pedron-4598a118b">Linkedin</a> 
 
-<details align='center' ><summary><img align='center' width='35' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/Bird.png"/> Click here for more informations about me <img align='center' width='35' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/FlipBird.png"/></summary>
+<details align='center' ><summary> Click here for more informations about me</summary>
 
 <div align='left'>
   <h2><img align='center' width='35' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/Profile.png"/> General info:</h2>
