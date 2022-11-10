@@ -12,7 +12,7 @@
   <h2><img align='center' width='35' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/Profile.png"/> General info:</h2>
   - <img align='center' width='30' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/BoschLogo.png"/>   software development trainee at Bosch 
   <br>
-  - <img align='center' width='30' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/Birthday.png"/>   20 years old
+  - <img align='center' width='30' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/Birthday.png"/>   21 years old
   <br>
   - <img align='center' width='30' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/Study.png"/>   I'm a computer engineering student
   <br>
